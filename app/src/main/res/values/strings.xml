@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MangaInfo</string>
+    <string name="manga_name">Manga</string>
+    <string name="synopsis">Synopsis</string>
+    <string name="profile_photo">Profile Photo</string>
+    <string name="revin_naufal_alief">Revin Naufal Alief</string>
+    <string name="email">revinnaufalalief@gmail.com</string>
+</resources>
